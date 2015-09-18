@@ -1,0 +1,30 @@
+Observations:
+
+There should be a space between those function declarations and the main function.
+
+Uneccessary spaces should be avoided (i.e. extra lines.)
+
+Variable names should be done in 'snake-case'
+for example:
+	'hoursremain'
+	should be:
+	'hours_remain'
+	instead, for readability.
+
+One other thing, functions should be contained in a file, such as 'myfile.h'
+make sure to use the .h extension (as a convention). Then just include the 
+header file. Then inside your main functin, you can have just a series of 
+function calls. In this way it is easier to manage the structure of your 
+program, and at the same time you get the advantage of being able to reuse 
+your code (all those functions you just wrote will become usable functions 
+for future programs.)
+
+I think we should include it as one of our own standards. What do you guys 
+think? And, either camel-case or snake-case (my preference is snake) but one or 
+the other and not both.
+
+I am fine with the convention of beginning a block of code on the same line,
+and the having the ending curly-bracket on its own line at the end of the
+block.
+
+
