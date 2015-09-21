@@ -27,4 +27,7 @@ I am fine with the convention of beginning a block of code on the same line,
 and the having the ending curly-bracket on its own line at the end of the
 block.
 
+EDIT:
+ This is Bryar Cole, and I agree with the style suggested here. 
+ //signed @ 7:09 Sunday, Sepetermber 20th. 
 
